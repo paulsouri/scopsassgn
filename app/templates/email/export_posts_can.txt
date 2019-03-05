@@ -1,0 +1,7 @@
+Dear {{ user.username }},
+
+Your recent export task was cancelled. Please try again anytime soon.
+
+Sincerely,
+
+The Scopassgn Team
